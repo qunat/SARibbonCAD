@@ -1,0 +1,6 @@
+﻿e:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(debug\)包含从另一个项目(SARibbonMainWindowExample.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  mainwindow.cpp
+    正在创建库 ..\..\..\bin_qt5.13.2_debug_64\\SARibbonMainWindowExample.lib 和对象 ..\..\..\bin_qt5.13.2_debug_64\\SARibbonMainWindowExample.exp
+LINK : warning LNK4010: 子系统版本号 5.01 无效；假定为默认子系统版本
+occQt.lib(occView.obj) : warning LNK4099: 未找到 PDB“occQt.pdb”(使用“occQt.lib(occView.obj)”或在“D:\text5\SARibbon\bin_qt5.13.2_debug_64\occQt.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  SARibbonMainWindowExample.vcxproj -> D:\text5\SARibbon\src\example\MainWindowExample\..\..\..\bin_qt5.13.2_debug_64\SARibbonMainWindowExample.exe

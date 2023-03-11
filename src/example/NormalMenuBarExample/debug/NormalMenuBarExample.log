@@ -1,0 +1,5 @@
+﻿  Generate moc_predefs.h
+  MainWindow.cpp
+  main.cpp
+  moc_MainWindow.cpp
+  NormalMenuBarExample.vcxproj -> D:\text5\SARibbon\src\example\NormalMenuBarExample\..\..\..\bin_qt5.13.2_debug_64\NormalMenuBarExample.exe
